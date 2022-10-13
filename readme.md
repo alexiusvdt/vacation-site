@@ -1,8 +1,8 @@
-# TEMPLATE
+# Vacation Sites
 
-#### By Kirsten Opstad
+#### By Kirsten Opstad & Alex Johnson
 
-#### A template for writing a README.md
+#### a short practice with bootstrap.css
 
 ### Objectives
 * Include a container to pad all content.
@@ -12,40 +12,18 @@
 
 ## Technologies Used
 
-* Technology1 
-* Technology2 
-* Technology3
+* HTML
+* CSS
+* Bootstrap
 
 ## Description
-
-This template includes placeholders for:
-
-[x] Screenshots
-
-![Screenshots](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.03bZmDGXaBhBYyxxp3Ls3gHaEA%26pid%3DApi&f=1&ipt=e980d57210242747a51c41421e1f09a6de3b1fdaeaadd297496787bb64e80c88&ipo=images)
-
-[x] [Link to operational site](http://www.epicodus.com)
-
-[x] Goals
-1. Goal1
-2. Goal2
-3. Goal3
+A short webpage with key elements identified in Objectives above.
 
 ## Setup/Installation Requirements
 
 * Clone this repo to your workspace.
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
-
-KO Ask Yourself:
-
-[x] Do I need to run a server? 
-
-[x] How should I set up my databases? 
-
-[x] Is there other code this application depends on?
-
-_{Epicodus recommends deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
