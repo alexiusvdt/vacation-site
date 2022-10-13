@@ -10,3 +10,8 @@
   vertical-align: top;
   font-size: 50%
 }
+
+.footnote p {
+  font-size: 10px;
+  text-align: center;
+}
