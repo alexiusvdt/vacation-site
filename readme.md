@@ -9,6 +9,8 @@
 * Use a Jumbotron to hold a title and an introductory sentence or slogan.
 * Include a section with blockquotes to contain what previous visitors to this area have said.
 * Use additional built-in classes to add color that emphasizes certain areas of the page.
+* Include a list of vacation packages available to visit this area. Each package should include a cost, the date or range of dates its available, and the activities included in the package. Organize this information in a grid.
+* In addition to Bootstrap styles, add your own stylesheet to further customize the appearance of the site.
 
 ## Technologies Used
 
