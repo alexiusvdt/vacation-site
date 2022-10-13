@@ -5,3 +5,8 @@
 .package ul {
   text-align: left;
 }
+
+.footnote {
+  vertical-align: top;
+  font-size: 50%
+}
