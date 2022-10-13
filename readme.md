@@ -21,6 +21,8 @@
 ## Description
 A short webpage with key elements identified in Objectives above.
 
+Check out the live [Vacation Site](https://kirstenopstad.github.io/vacation-site/)!
+
 ## Setup/Installation Requirements
 
 * Clone this repo to your workspace.
