@@ -31,7 +31,7 @@ Check out the live [Vacation Site](https://kirstenopstad.github.io/vacation-site
 
 ## Known Bugs
 
-* No known bugs. If you find one, please email me at kirsten.opstad@gmail.com with the subject **[_Repo Name_] Bug** and include:
+* No known bugs. If you find one, please email me at kirsten.opstad@gmail.com or alex.johnson293@gmail.com with the subject **[_Repo Name_] Bug** and include:
   * BUG: _A brief description of the bug_
   * FIX: _Suggestion for solution (if you have one!)_
   * If you'd like to be credited, please also include your **_github user profile link_**
